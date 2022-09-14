@@ -5,14 +5,14 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
 
-public class ReadConfig {
+public class ConfigReader {
 
     private static Properties properties;
 
     public static Properties initializeProperties() {
         properties = new Properties();
         try {
-            FileInputStream fileInputStream = new FileInputStream("src/test/resources/config.properties");
+            FileInputStream fileInputStream = new FileInputStream("src/main/resources/config.properties");
             properties.load(fileInputStream);
 
         } catch (FileNotFoundException e) {
