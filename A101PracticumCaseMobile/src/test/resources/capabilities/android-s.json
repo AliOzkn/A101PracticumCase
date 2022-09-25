@@ -1,0 +1,10 @@
+{
+  "platformName": "Android",
+  "appium:udid": "emulator-5554",
+  "appium:deviceName": "Pixel_3_XL_API_31",
+  "appium:platformVersion": "12.0.0",
+  "appium:automationName": "A101",
+  "noReset": true,
+  "appium:newCommandTimeout": 5
+
+}

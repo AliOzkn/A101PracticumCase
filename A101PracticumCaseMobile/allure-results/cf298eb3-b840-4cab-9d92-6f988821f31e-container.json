@@ -1,0 +1,1 @@
+{"uuid":"cf298eb3-b840-4cab-9d92-6f988821f31e","name":"A101 Mobile Test","children":["57906ec9-eb69-44f6-bc8d-27edf3c58e54"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1664108724783,"stop":1664108733334}],"afters":[],"start":1664108724742,"stop":1664108791875}

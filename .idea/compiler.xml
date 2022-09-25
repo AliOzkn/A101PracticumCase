@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="A101PracticumCaseWeb" />
+        <module name="A101PracticumCaseMobile" />
       </profile>
     </annotationProcessing>
   </component>
