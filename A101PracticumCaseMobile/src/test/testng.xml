@@ -1,0 +1,10 @@
+<suite name="A101 Mobile Test" >
+    <listeners>
+        <listener class-name="listener.LogListener" />
+    </listeners>
+    <test name="Buying a black socks.">
+        <classes>
+            <class name="testscenarios.BuyingProduct"/>
+        </classes>
+    </test>
+</suite>
